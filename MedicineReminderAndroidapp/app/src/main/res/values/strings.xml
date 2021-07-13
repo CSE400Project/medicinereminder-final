@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MedicineReminderAndroidapp</string>
+    <string name="Button_name">Alarm</string>
+
+    <string name="About">About
+We are were a group dedicated to creating HD Blu-ray re-encodes with English subtitles. We may occasionally also encode from TV or Web rips or do SD DVD encodes.
+
+We will not:
+
+Encode a series we are not interested in (which is most likely one you are).
+Release a v2 outside of a batch unless it is something really major (Example: Video plays in reverse).
+Create patches. We’d rather waste your bandwidth than our time.
+Release SD versions of HD encodes.
+Release resolutions larger than the source.
+Encode from pre-encoded raws.
+Encode lossless Blu-ray audio to anything other than FLAC.
+Use R1 (Retail) subs when there is a good fansub.</string>
+
+    -
+    <string-array name="medicine_name">
+
+        <item>Lisinopril</item>
+
+        <item>Gabapentin</item>
+
+        <item>Amlodipine</item>
+
+        <item>Hydrocodone</item>
+
+        <item>Amoxicillin</item>
+
+        <item>Omeprazole</item>
+
+        <item>Metformin</item>
+
+        <item>Losartan</item>
+
+        <item>Cetirizine hydrochloride</item>
+
+        <item>Azithromycin</item>
+
+        <item>Konobi</item>
+
+        <item>Amlodipine</item>
+
+        <item>Albuterol</item>
+
+        <item>Hydrochlorothiazide </item>
+
+        <item>Ace plus</item>
+
+        <item>Filmet</item>
+
+    </string-array>
+</resources>

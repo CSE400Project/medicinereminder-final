@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_marginTop="20dp"
+        android:hint="Enter Medicine Name"/>
+    <TimePicker
+        android:layout_width="310dp"
+        android:layout_height="360dp"
+        android:id="@+id/timePicker"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="25dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/setBtn"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginTop="450dp"
+            android:text="SET"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cancelBtn"
+            android:layout_marginTop="450dp"
+            android:text="CANCEL"/>
+    </LinearLayout>
+
+</RelativeLayout>
